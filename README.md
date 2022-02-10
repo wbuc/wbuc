@@ -26,6 +26,7 @@
   
 ### :man_office_worker: About Me :
   
+- :mailbox:Reach out to me : [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wessel-b%C3%BCchling-mendix/)
 </div>
 
 <div>
