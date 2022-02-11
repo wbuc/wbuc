@@ -23,14 +23,14 @@
 
 <div>
 
----
+<!-- ---
   
 ### :man_office_worker: About Me :
   
 - :mailbox:Reach out to me : [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wessel-b%C3%BCchling-mendix/)
 </div>
 
-<div>
+<div> -->
 
 ---
 
