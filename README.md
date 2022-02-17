@@ -1,15 +1,7 @@
-<div id="header" align="center">
+<div align="center">
 
-  <div id="badges" >
-  <a href="https://www.linkedin.com/in/wessel-b%C3%BCchling-mendix/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/WesselBuchling">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 <div >
-  <img src="https://komarev.com/ghpvc/?username=wbuc&style=flat-square&color=blue" alt=""/>
+  
   <h1>
   hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -34,7 +26,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
   <img src="https://www.mendix.com/wp-content/uploads/mendix-platform.svg" title="Mendix" alt="Mendix" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -52,8 +44,24 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbuc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :information_source: Where to find me
+ <a href="https://www.linkedin.com/in/wessel-b%C3%BCchling-mendix/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/WesselBuchling">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+---
+
+  <div id="badges" align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=wbuc&style=flat-square&color=blue" alt=""/>
+  </p>
+</div>
 
 <!--
 **wbuc/wbuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
