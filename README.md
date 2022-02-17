@@ -1,15 +1,16 @@
-<div align="center">
+<div align="left">
 
 <div >
   
   <h1>
-  Hello there! Great to see you!
+  Hello there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
   </h1>
  </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" width="600"/>
+<div align="left">
+  <p> Welcome to my page!</p>
+  <p>I'm Wessel, a Mendix developer from South Africa, currently living in the United Kingdom.</p>
+
 </div>
 </div>
 
