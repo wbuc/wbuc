@@ -25,7 +25,7 @@
 
 <div> -->
 
----
+ <h1 style="width:100%"></h1>
 
 ### :hammer_and_wrench: Languages and Tools 
   <img src="https://www.mendix.com/wp-content/uploads/mendix-platform.svg" title="Mendix" alt="Mendix" width="40" height="40"/>&nbsp;
@@ -43,11 +43,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
----
+ <h1 style="width:100%"></h1>
 
 ### :fire: My Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbuc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
+<h1 style="width:100%"></h1>
+ 
 ### :information_source: Where to find me
  <a href="https://www.linkedin.com/in/wessel-b%C3%BCchling-mendix/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -56,8 +58,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
----
-
+  <h1 style="width:100%"></h1>
   <div id="badges" align="center">
   <p>
     <img src="https://komarev.com/ghpvc/?username=wbuc&style=flat-square&color=blue" alt=""/>
