@@ -50,7 +50,7 @@
  
 <h1 style="width:100%"></h1>
  
-### :information_source: Where to find me
+### :telephone_receiver: Where to find me
  <a href="https://www.linkedin.com/in/wessel-b%C3%BCchling-mendix/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -62,6 +62,7 @@
   <div id="badges" align="center">
   <p>
     <img src="https://komarev.com/ghpvc/?username=wbuc&style=flat-square&color=blue" alt=""/>
+    
   </p>
 </div>
 
