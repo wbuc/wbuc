@@ -58,8 +58,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  <div>
-  &nbsp;
-  &nbsp;
+<br /><br />
     <a href="https://wesselbuchling.com" style="padding:20px">
       Visit my website
     </a>
