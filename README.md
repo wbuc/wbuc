@@ -57,9 +57,11 @@
   <a href="https://twitter.com/WesselBuchling">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
- <div style="margin-top: 50px">
+ <div>
   <a href="https://wesselbuchling.com">
-    Visit my website
+    <h3>
+       Visit my website
+    </h3>
   </a>
 </div>
   
