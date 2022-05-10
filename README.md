@@ -59,7 +59,7 @@
   </a>
  <div>
     <br />
-    <a href="https://wesselbuchling.com" style="padding:20px display: none">
+    <a href="https://wesselbuchling.com" style="padding:20px; display: none">
       Visit my website
     </a>
   
